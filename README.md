@@ -1,6 +1,6 @@
 # Smart Cup Holder
 
-#Balancing
+## Balancing
 
 -Balances a cup using 2 servo motors in 2 axes based on readings from the MPU6050 sensor.
 
